@@ -21,7 +21,7 @@ Usamos Pascal Case para nomear classes, métodos, namespaces e outros elementos 
 Exemplo:
 - Classe: `ProjectManager`
 - Método: `CalculateEfficiency`
-- Namespace: `Antidoto.Embedded`
+- Namespace: `AntidotoEmbedded`
 
 ## Estrutura Principal do Projeto
 
