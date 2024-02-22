@@ -1,6 +1,6 @@
 # Licença de Software da Antídoto Tecnologias Interativas
 
-
+![antidoto-logo](images/logo.png)
 
 **IMPORTANTE: LEIA ESTE ACORDO DE LICENÇA DE SOFTWARE ("LICENÇA") COM ATENÇÃO ANTES DE USAR O SOFTWARE. AO USAR O SOFTWARE, VOCÊ ESTÁ CONCORDANDO EM ESTAR VINCULADO AOS TERMOS DESTA LICENÇA.**
 
@@ -32,7 +32,7 @@ Esta Licença será regida e interpretada de acordo com as leis do Brasil.
 
 **IMPORTANT: READ THIS SOFTWARE LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE USING THE SOFTWARE. BY USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE.**
 
-
+![antidoto-logo](images/logo.png)
 
 ## 1. License Grant
 Antídoto Tecnologias Interativas ("Licensor") grants you ("Licensee") a non-exclusive, non-transferable license to use this software ("Software") exclusively for internal purposes. This license does not allow the redistribution, sharing, or resale of the Software or its parts.
